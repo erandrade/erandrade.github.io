@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redes on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/redes/index.xml</link>
+    <description>Recent content in Redes on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
+    <atom:link href="/tags/redes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Padrão de Defesa de Rede em Sistemas de Computação em Nuvem</title>
+      <link>https://erandrade.github.io/project/pat-cloud/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/pat-cloud/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;A abordagem comumente adotada para implantação de defesa de redes, fortemente centralizada, não provê eficazmente a elasticidade e flexibilidade necessárias para a segurança de aplicações e serviços que executam em ambientes fortemente virtualizados, como nuvens computacionais.&lt;/p&gt;
+
+&lt;p&gt;Em especial, no contexto de aplicações multimídia tem-se observado que nem todos os operadores implantam suas soluções dentro de uma única nuvem privada, mas consideram em sua arquitetura múltiplos domínios, compostos de uma combinação de nuvens públicas e privadas. Os serviços providos (inclusive de segurança) acabam então sendo executados em um ambiente híbrido, contando com pequenas nuvens (cloudlets) conectadas ao data center principal do provedor de conteúdo.&lt;/p&gt;
+
+&lt;p&gt;Neste contexto, este projeto busca a especificação de uma arquitetura que dê suporte a orquestração da execução dos mecanismos de segurança espalhados pelos diversos domínios que compõem nuvens computacionais como a citada, permitindo a colaboração entre o data centers e cloudlets.&lt;/p&gt;
+
+&lt;p&gt;Essa estrutura deve suportar um sistema centralizado de controle de segurança, que pode controlar as funcionalidades e configurações de segurança de diferentes ferramentas de segurança (firewall, sistemas de deteção de intrusão, etc.) em execução nos cloudlets e data centers.&lt;/p&gt;
+
+&lt;p&gt;Para isso, podem ser usadas tecnologias inovadoras de orquestração de rede, como redes definidas por software (&lt;a href=&#34;https://en.wikipedia.org/wiki/Software-defined_networking&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Software Defined Networks&lt;/em&gt; - SDN&lt;/a&gt;) e encadeamento de serviços (&lt;a href=&#34;https://datatracker.ietf.org/wg/sfc/charter/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Service Function Chaining&lt;/em&gt; - SFC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Projeto desenvolvido e certificado em parceria internacional com a &lt;a href=&#34;https://www.ericsson.com/about-us/research-areas&#34; target=&#34;_blank&#34;&gt;Ericsson Research&lt;/a&gt; visando o desenvolvimento de soluções de segurança para a virtualização de redes em ambientes de computação em nuvem.&lt;/p&gt;
+
+&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segurança em Redes Virtuais para Computação em Nuvem</title>
+      <link>https://erandrade.github.io/project/sec-cloud-vn/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/sec-cloud-vn/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Projeto desenvolvido e certificado em parceria internacional com a &lt;a href=&#34;https://www.ericsson.com/about-us/research-areas&#34; target=&#34;_blank&#34;&gt;Ericsson Research&lt;/a&gt; visando o desenvolvimento de soluções de segurança para a virtualização de redes em ambientes de computação em nuvem.&lt;/p&gt;
+
+&lt;p&gt;São objetivos deste projeto investigar o estado da arte em soluções de segurança de redes para sistemas de computação em nuvem, compreender as principais ameaças de segurança contra redes virtualizadas em ambiente multi-inquilino e propor um arcabouço de software e hardware capaz de incorporar soluções eficientes na prevenção e contenção destas ameaças.&lt;/p&gt;
+
+&lt;p&gt;O arcabouço de segurança proposto incorpora novas tecnologias e paradigmas de virtualização de redes como Software-defined Networks, Network Function Virtualization e Hardware-assisted Virtualization na construção de uma nova arquitetura de virtualização de redes para ambientes de computação em nuvem.&lt;/p&gt;
+
+&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

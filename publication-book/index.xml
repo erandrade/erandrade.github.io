@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication-books on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/publication-book/index.xml</link>
+    <description>Recent content in Publication-books on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Mon, 18 May 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication-book/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Applying Software-defined Networks to Cloud Computing $(minicurso)$</title>
+      <link>https://erandrade.github.io/publication-book/minicurso-SBRC/</link>
+      <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-book/minicurso-SBRC/</guid>
+      <description>&lt;p&gt;Virtualização e gerenciamento de redes em sistemas de Computação em nuvem estabeleceram-se como campos de pesquisa bastante ativos nos últimos anos. Mais recentemente, com o advento das Redes Definidas por Software (SDN &amp;ndash; Software-Defined Networks), foram introduzidos novos conceitos de controle e organização de redes, impulsionando novas áreas de pesquisa orientadas à implementação e aplicação destes conceitos em diferentes cenários científicos e tecnológicos.&lt;/p&gt;
+
+&lt;p&gt;Este curso visa introduzir aos pesquisadores e profissionais das áreas relacionadas os principais conceitos e tecnologias aplicados à virtualização de redes em ambientes de computação em nuvem empregando o paradigma SDN.&lt;/p&gt;
+
+&lt;p&gt;O curso apresenta uma visão do estado da arte da aplicação de tecnologias SDN na implementação, organização e virtualização de redes em sistemas de nuvem, abordando os aspectos conceituais e tecnológicos que envolvem a integração destes dois paradigmas tecnológicos que têm transformado a maneira como serviços de computação são consumidos.&lt;/p&gt;
+
+&lt;p&gt;Os conceitos e técnicas apresentados no curso são ainda reforçados por um estudo de caso baseado na integração do controlador SDN OpenDaylight e do orquestrador de nuvem OpenStack.&lt;/p&gt;
+
+&lt;p&gt;Este curso foi apresentado durante o &lt;a href=&#34;http://sbrc2015.ufes.br/&#34; target=&#34;_blank&#34;&gt;SBRC 2015&lt;/a&gt;, realizado em Vitória, ES, Brasil; em forma de capítulo de livro.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

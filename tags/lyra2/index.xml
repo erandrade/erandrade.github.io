@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyra2 on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/lyra2/index.xml</link>
+    <description>Recent content in Lyra2 on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
+    <atom:link href="/tags/lyra2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notícias sobre o Lyra2</title>
+      <link>https://erandrade.github.io/post/lyra2/</link>
+      <pubDate>Sat, 14 Jan 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/lyra2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;É possível encontrar as principais notícias sobre o &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;Lyra2&lt;/a&gt; na &lt;a href=&#34;https://erandrade.github.io/project/sponge-crypt/&#34;&gt;página do projeto&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
