@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ewerton R. Andrade</title>
-    <link>https://erandrade.github.io/post/index.xml</link>
+    <link>https://erandrade.github.io/post/</link>
     <description>Recent content in Posts on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
     <lastBuildDate>Sat, 14 Jan 2017 12:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Notícias sobre o Lyra2</title>
@@ -40,15 +40,15 @@
     
     <item>
       <title>Aluno de doutorado do PCS ganha prêmio internacional</title>
-      <link>https://erandrade.github.io/post/premio-ICISSP/</link>
+      <link>https://erandrade.github.io/post/premio-icissp/</link>
       <pubDate>Tue, 24 May 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/post/premio-ICISSP/</guid>
+      <guid>https://erandrade.github.io/post/premio-icissp/</guid>
       <description>&lt;p&gt;&amp;ldquo;O aluno de Doutorado da Engenharia de Computação e Sistemas Digitais da &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da USP&lt;/a&gt;, Ewerton Rodrigues Andrade, recebeu o prêmio de melhor Projeto de Doutorado na &lt;a href=&#34;http://www.icissp.org/?y=2016&#34; target=&#34;_blank&#34;&gt;segunda edição do ICISSP - &lt;em&gt;International Conference on Information Systems Security and Privacy&lt;/em&gt;, ou, em tradução livre, Conferência Internacional de Segurança e Privacidade de Sistemas de Informação -&lt;/a&gt;, ocorrida no último mês de fevereiro.&lt;/p&gt;
 
 &lt;p&gt;[&amp;hellip;]&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://lyra2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt;, como é conhecido seu projeto, é resumidamente um programa feito com o objetivo de proteger senhas e trazer segurança aos seus usuários. Conforme Ewerton explica, as senhas são vítimas de &amp;ldquo;ataques de força bruta&amp;rdquo;, que por sua vez são processos de tentativa e erro feitos para alcançar essas informações protegidas por um sistema. &amp;ldquo;Desta forma, a viabilidade (ou inviabilidade) do ataque depende do poder computacional do atacante e da quantidade de recursos tecnológicos demandados em cada uma das tentativas&amp;rdquo;, diz ele. O &lt;a href=&#34;http://lyra2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt; é definido como uma função que aumenta o custo envolvido (computacional e monetário) em cada tentativa do atacante, dificultando a sua vida e aumentando a privacidade e a segurança da senha.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lyra-2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt;, como é conhecido seu projeto, é resumidamente um programa feito com o objetivo de proteger senhas e trazer segurança aos seus usuários. Conforme Ewerton explica, as senhas são vítimas de &amp;ldquo;ataques de força bruta&amp;rdquo;, que por sua vez são processos de tentativa e erro feitos para alcançar essas informações protegidas por um sistema. &amp;ldquo;Desta forma, a viabilidade (ou inviabilidade) do ataque depende do poder computacional do atacante e da quantidade de recursos tecnológicos demandados em cada uma das tentativas&amp;rdquo;, diz ele. O &lt;a href=&#34;http://lyra-2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt; é definido como uma função que aumenta o custo envolvido (computacional e monetário) em cada tentativa do atacante, dificultando a sua vida e aumentando a privacidade e a segurança da senha.&lt;/p&gt;
 
 &lt;p&gt;[&amp;hellip;]&amp;rdquo;&lt;/p&gt;
 
@@ -58,10 +58,10 @@
     
     <item>
       <title>Alunos e professores do PCS ganham prêmios no SBSeg 2014</title>
-      <link>https://erandrade.github.io/post/premio-quartz-CTDSeg/</link>
+      <link>https://erandrade.github.io/post/premio-quartz-ctdseg/</link>
       <pubDate>Wed, 04 Feb 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/post/premio-quartz-CTDSeg/</guid>
+      <guid>https://erandrade.github.io/post/premio-quartz-ctdseg/</guid>
       <description>&lt;p&gt;&amp;ldquo;O &lt;a href=&#34;http://www2.pcs.usp.br/&#34; target=&#34;_blank&#34;&gt;PCS&lt;/a&gt; se destacou mais uma vez no &lt;a href=&#34;http://www.sbseg2014.dcc.ufmg.br/&#34; target=&#34;_blank&#34;&gt;Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg 2014)&lt;/a&gt;. Alunos e professores do departamento receberam prêmios e honrarias na décima quarta edição do evento, que aconteceu entre os dias 3 e 6 de novembro, em Belo Horizonte, na Universidade Federal de Minas Gerais (UFMG).&lt;/p&gt;
 
 &lt;p&gt;[&amp;hellip;]&lt;/p&gt;

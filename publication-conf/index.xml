@@ -2,20 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication-confs on Ewerton R. Andrade</title>
-    <link>https://erandrade.github.io/publication-conf/index.xml</link>
+    <link>https://erandrade.github.io/publication-conf/</link>
     <description>Recent content in Publication-confs on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication-conf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication-conf/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lyra2: Password Hashing Scheme with improved security against time-memory trade-offs $(resumo)$</title>
+      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-ctd-csbc/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-ctd-csbc/</guid>
+      <description>&lt;p&gt;Este trabalho foi avaliado por membros da Sociedade Brasileira de Computação (&lt;a href=&#34;www.sbc.org.br&#34; target=&#34;_blank&#34;&gt;SBC&lt;/a&gt;), ficando entre os &lt;a href=&#34;http://csbc2017.mackenzie.br/anais/eventos/30-ctd&#34; target=&#34;_blank&#34;&gt;finalistas&lt;/a&gt; no 30º Concurso de Teses e Dissertações, e é um substrato da Tese de Doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A Tese está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-26082016-150620/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Veja os &lt;a href=&#34;https://erandrade.github.io/#awards&#34;&gt;trabalhos premiados do Ewerton R Andrade&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Enabling Security Services Collaboration Across Multiple Domains</title>
+      <link>https://erandrade.github.io/publication-conf/collaborative-ssf/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/collaborative-ssf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redactable Blockchain -- or -- Rewriting History in Bitcoin and Friends</title>
+      <link>https://erandrade.github.io/publication-conf/redac-blockchain/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/redac-blockchain/</guid>
+      <description>&lt;p&gt;A new framework that makes it possible to re-write or compress the content of any number of blocks in decentralized services exploiting the blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;Também disponível em: &lt;a href=&#34;https://eprint.iacr.org/2016/757&#34; target=&#34;_blank&#34;&gt;ia.cr/2016/757&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Este trabalho foi desenvolvido durante o perído de mobilidade do Ewerton R. Andrade.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;É possível encontrar as principais notícias sobre o BlockChain Editável na &lt;a href=&#34;https://erandrade.github.io/project/blockchain/&#34;&gt;página do projeto&lt;/a&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Lyra2: Password Hashing Scheme with improved security against Time-Memory Trade-Offs $(resumo)$</title>
-      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-SBSeg/</link>
+      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-sbseg/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-SBSeg/</guid>
+      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-sbseg/</guid>
       <description>&lt;p&gt;Este trabalho foi &lt;a href=&#34;http://sbseg2016.ic.uff.br/pt/trabalhos-premiados.php&#34; target=&#34;_blank&#34;&gt;premiado&lt;/a&gt; por membros da Sociedade Brasileira de Computação (&lt;a href=&#34;www.sbc.org.br&#34; target=&#34;_blank&#34;&gt;SBC&lt;/a&gt;), e é um substrato da Tese de Doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;A Tese está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-26082016-150620/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
@@ -26,19 +69,19 @@
     
     <item>
       <title>Avaliação de Desempenho de Mecanismos de Segurança de Rede em Nuvens Computacionais</title>
-      <link>https://erandrade.github.io/publication-conf/SRIOV-e-IPSec/</link>
+      <link>https://erandrade.github.io/publication-conf/sriov-e-ipsec/</link>
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/publication-conf/SRIOV-e-IPSec/</guid>
+      <guid>https://erandrade.github.io/publication-conf/sriov-e-ipsec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra2: Efficient Password Hashing with high security against Time-Memory Trade-Offs $(resumo)$</title>
-      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-ICISSP/</link>
+      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-icissp/</link>
       <pubDate>Sun, 21 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-ICISSP/</guid>
+      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-icissp/</guid>
       <description>&lt;p&gt;Este trabalho foi &lt;a href=&#34;http://www.icissp.org/PreviousAwards.aspx&#34; target=&#34;_blank&#34;&gt;premiado&lt;/a&gt; por membros da comunidade científica internacional (&lt;a href=&#34;www.insticc.org&#34; target=&#34;_blank&#34;&gt;INSTICC&lt;/a&gt;), e é um substrato da Tese de Doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;A Tese está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-26082016-150620/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
@@ -49,10 +92,10 @@
     
     <item>
       <title>Proposta de aprimoramento para o protocolo de assinatura digital Quartz $(resumo)$</title>
-      <link>https://erandrade.github.io/publication-conf/quartz-apri-resumo-SBSeg/</link>
+      <link>https://erandrade.github.io/publication-conf/quartz-apri-resumo-sbseg/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://erandrade.github.io/publication-conf/quartz-apri-resumo-SBSeg/</guid>
+      <guid>https://erandrade.github.io/publication-conf/quartz-apri-resumo-sbseg/</guid>
       <description>&lt;p&gt;Este trabalho foi &lt;a href=&#34;http://www.sbseg2014.dcc.ufmg.br/programacao/#premios&#34; target=&#34;_blank&#34;&gt;premiado&lt;/a&gt; por membros da Sociedade Brasileira de Computação (&lt;a href=&#34;www.sbc.org.br&#34; target=&#34;_blank&#34;&gt;SBC&lt;/a&gt;), e é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;

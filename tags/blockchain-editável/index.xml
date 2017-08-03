@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain Editável on Ewerton R. Andrade</title>
-    <link>https://erandrade.github.io/tags/blockchain-edit%C3%A1vel/index.xml</link>
+    <link>https://erandrade.github.io/tags/blockchain-edit%C3%A1vel/</link>
     <description>Recent content in Blockchain Editável on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <atom:link href="/tags/blockchain-edit%C3%A1vel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2017 11:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/blockchain-edit%C3%A1vel/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Notícias sobre a ideia de &#39;BlockChain Editável&#39;</title>

@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seguranca on Ewerton R. Andrade</title>
-    <link>https://erandrade.github.io/tags/seguranca/index.xml</link>
+    <link>https://erandrade.github.io/tags/seguranca/</link>
     <description>Recent content in Seguranca on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <atom:link href="/tags/seguranca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/seguranca/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geração de chaves criptográficas seguras a partir de senhas</title>
@@ -27,7 +28,7 @@
 
 &lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;É possível encontrar maiores informações sobre o projeto na página do &lt;a href=&#34;http://lyra2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt;, e também nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
+&lt;p&gt;É possível encontrar maiores informações sobre o projeto na página do &lt;a href=&#34;http://lyra-2.net/&#34; target=&#34;_blank&#34;&gt;Lyra2&lt;/a&gt;, e também nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
 
 &lt;h2 id=&#34;notícias-sobre-o-projeto&#34;&gt;&lt;strong&gt;Notícias sobre o projeto&lt;/strong&gt;&lt;/h2&gt;
 

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://erandrade.github.io/home/about/</loc>
-    <lastmod>2017-01-12T11:08:00+00:00</lastmod>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +45,21 @@
   <url>
     <loc>https://erandrade.github.io/home/contact/</loc>
     <lastmod>2017-01-12T11:14:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erandrade.github.io/publication-conf/lyra2-resumo-ctd-csbc/</loc>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erandrade.github.io/publication-conf/collaborative-ssf/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erandrade.github.io/publication-conf/redac-blockchain/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -92,32 +108,32 @@
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication-conf/lyra2-resumo-SBSeg/</loc>
+    <loc>https://erandrade.github.io/publication-conf/lyra2-resumo-sbseg/</loc>
     <lastmod>2016-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication-conf/SRIOV-e-IPSec/</loc>
+    <loc>https://erandrade.github.io/publication-conf/sriov-e-ipsec/</loc>
     <lastmod>2016-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication/quartz-apri-IEEE-latin/</loc>
+    <loc>https://erandrade.github.io/publication/quartz-apri-ieee-latin/</loc>
     <lastmod>2016-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/post/premio-ICISSP/</loc>
+    <loc>https://erandrade.github.io/post/premio-icissp/</loc>
     <lastmod>2016-05-24T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication/quartz-apri-ENIGMA/</loc>
+    <loc>https://erandrade.github.io/publication/quartz-apri-enigma/</loc>
     <lastmod>2016-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication-conf/lyra2-resumo-ICISSP/</loc>
+    <loc>https://erandrade.github.io/publication-conf/lyra2-resumo-icissp/</loc>
     <lastmod>2016-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -127,17 +143,17 @@
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication-book/minicurso-SBRC/</loc>
+    <loc>https://erandrade.github.io/publication-book/minicurso-sbrc/</loc>
     <lastmod>2015-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/post/premio-quartz-CTDSeg/</loc>
+    <loc>https://erandrade.github.io/post/premio-quartz-ctdseg/</loc>
     <lastmod>2015-02-04T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erandrade.github.io/publication-conf/quartz-apri-resumo-SBSeg/</loc>
+    <loc>https://erandrade.github.io/publication-conf/quartz-apri-resumo-sbseg/</loc>
     <lastmod>2014-11-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -179,6 +195,11 @@
   </url>
   
   <url>
+    <loc>https://erandrade.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://erandrade.github.io/tags/disserta%C3%A7%C3%A3o/</loc>
     <lastmod>2015-02-04T12:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -198,13 +219,13 @@
   
   <url>
     <loc>https://erandrade.github.io/</loc>
-    <lastmod>2017-01-12T11:08:00+00:00</lastmod>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://erandrade.github.io/home/</loc>
-    <lastmod>2017-01-12T11:08:00+00:00</lastmod>
+    <lastmod>2017-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -270,7 +291,7 @@
   
   <url>
     <loc>https://erandrade.github.io/publication-conf/</loc>
-    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,6 +321,7 @@
   
   <url>
     <loc>https://erandrade.github.io/tags/</loc>
+    <lastmod>2011-08-04T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
