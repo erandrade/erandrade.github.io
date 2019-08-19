@@ -6,8 +6,10 @@
     <description>Recent content in Categories on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    
+	<atom:link href="https://erandrade.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

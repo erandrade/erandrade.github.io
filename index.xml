@@ -6,9 +6,46 @@
     <description>Recent content in Ewerton R. Andrade on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing and Assessing Multi-tenant Isolation Strategies for Cloud Networks</title>
+      <link>https://erandrade.github.io/publication-conf/multi-tenant-isolation/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/multi-tenant-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-tenant Isolation of What?: Building a Secure Tenant Isolation Architecture for Cloud Networks</title>
+      <link>https://erandrade.github.io/publication-conf/multi-tenant-isolation-poster/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/multi-tenant-isolation-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for enabling security services collaboration across multiple domains</title>
+      <link>https://erandrade.github.io/publication/ndpc-framework/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication/ndpc-framework/</guid>
+      <description>&lt;p&gt;Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da pesquisa de pós-doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demonstration of a framework for enabling security services collaboration across multiple domains</title>
+      <link>https://erandrade.github.io/publication-conf/ndpc-demonstration/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/ndpc-demonstration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lyra2: Password Hashing Scheme with improved security against time-memory trade-offs $(resumo)$</title>
@@ -240,53 +277,6 @@
       
       <guid>https://erandrade.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparison of Two Signature Schemes Based on the $MQ$ Problem and Quartz</title>
-      <link>https://erandrade.github.io/publication/comparison-two-mq-sig/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/publication/comparison-two-mq-sig/</guid>
-      <description>&lt;p&gt;Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lyra2: Password Hashing Scheme with improved security against Time-Memory Trade-Offs $(resumo)$</title>
-      <link>https://erandrade.github.io/publication-conf/lyra2-resumo-sbseg/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/publication-conf/lyra2-resumo-sbseg/</guid>
-      <description>&lt;p&gt;Este trabalho foi &lt;a href=&#34;http://sbseg2016.ic.uff.br/pt/trabalhos-premiados.php&#34; target=&#34;_blank&#34;&gt;premiado&lt;/a&gt; por membros da Sociedade Brasileira de Computação (&lt;a href=&#34;www.sbc.org.br&#34; target=&#34;_blank&#34;&gt;SBC&lt;/a&gt;), e é um substrato da Tese de Doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Tese está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-26082016-150620/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Veja os demais &lt;a href=&#34;https://erandrade.github.io/#awards&#34;&gt;trabalhos premiados do Ewerton R Andrade&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Avaliação de Desempenho de Mecanismos de Segurança de Rede em Nuvens Computacionais</title>
-      <link>https://erandrade.github.io/publication-conf/sriov-e-ipsec/</link>
-      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/publication-conf/sriov-e-ipsec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proposal of Enhancement for Quartz Digital Signature $(invited)$</title>
-      <link>https://erandrade.github.io/publication/quartz-apri-ieee-latin/</link>
-      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/publication/quartz-apri-ieee-latin/</guid>
-      <description>&lt;p&gt;Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

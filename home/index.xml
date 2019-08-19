@@ -6,9 +6,106 @@
     <description>Recent content in Homes on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://erandrade.github.io/home/about/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/about/</guid>
+      <description>Biografia Atualmente, Ewerton R. Andrade é professor na Fundação Universidade Federal de Rondônia (UNIR). Mas também já atuou como professor no Instituto Federal de Rondônia (IFRO) e realizou estágio de pós-doutorado na mesma instituição onde obteve o título de doutor, na Escola Politécnica da Universidade de São Paulo (Poli-USP), sob a supervisão e orientação do Professor Dr. Marcos A. Simplicio Jr.
+Durante seu doutorado, realizou mobilidade acadêmica no Dipartimento di Informatica da Sapienza Università di Roma (la Sapienza), sob orientação do Professor Dr.</description>
+    </item>
+    
+    <item>
+      <title>Prêmios</title>
+      <link>https://erandrade.github.io/home/awards/</link>
+      <pubDate>Sat, 14 Jan 2017 17:22:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/awards/</guid>
+      <description> Melhor tese de doutorado, 2016 Concurso de Teses e Dissertações do XVI SBSeg (CTDSeg)
+Sociedade Brasileira de Computação
+ Melhor projeto de doutorado, 2016 Doctoral Consortium da ICISSP&amp;rsquo;16 (DCISSP)
+Institute for Systems and Technologies of Information
+ Menção de reconhecimento ao Lyra2, 2015 Password Hashing Competition (PCH)
+PCH Committee
+ Melhor dissertação de mestrado, 2014 Concurso de Teses e Dissertações do XIV SBSeg (CTDSeg)
+Sociedade Brasileira de Computação
+  </description>
+    </item>
+    
+    <item>
+      <title>Publicações em Periódicos</title>
+      <link>https://erandrade.github.io/home/publications_selected/</link>
+      <pubDate>Thu, 12 Jan 2017 12:07:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capítulos de Livro</title>
+      <link>https://erandrade.github.io/home/publications_selected_book/</link>
+      <pubDate>Sat, 14 Jan 2017 15:34:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/publications_selected_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publicações em Conferências</title>
+      <link>https://erandrade.github.io/home/publications_selected_conference/</link>
+      <pubDate>Sat, 14 Jan 2017 16:23:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/publications_selected_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notícias</title>
+      <link>https://erandrade.github.io/home/posts/</link>
+      <pubDate>Fri, 13 Jan 2017 19:23:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://erandrade.github.io/home/projects/</link>
+      <pubDate>Sat, 14 Jan 2017 17:50:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensino</title>
+      <link>https://erandrade.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/teaching/</guid>
+      <description>Fundação Universidade Federal de Rondônia (UNIR):
+ 2º semestre de 2019  Programação I Segurança da Informação   Instituto Federal de Rondônia (IFRO):
+ 1º semestre de 2019
+ Algoritmos e Linguagem de Programação Lógica de Programação  2º semestre de 2018
+ Algoritmos Avançados Lógica de Programação Segurança da Informação Tópicos Especiais em Tecnologia II  1º semestre de 2018
+ Algoritmos e Linguagem de Programação Lógica de Programação  2º semestre de 2017</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://erandrade.github.io/home/contact/</link>
+      <pubDate>Thu, 12 Jan 2017 11:14:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -6,9 +6,20 @@
     <description>Recent content in Publications on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A framework for enabling security services collaboration across multiple domains</title>
+      <link>https://erandrade.github.io/publication/ndpc-framework/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication/ndpc-framework/</guid>
+      <description>Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da pesquisa de pós-doutorado desenvolvida na Escola Politécnica da Universidade de São Paulo (Poli-USP).</description>
+    </item>
     
     <item>
       <title>Comparison of Two Signature Schemes Based on the $MQ$ Problem and Quartz</title>
@@ -16,10 +27,8 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication/comparison-two-mq-sig/</guid>
-      <description>&lt;p&gt;Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP).
+A Dissertação está disponível no Portal de Teses e Dissertações da USP.</description>
     </item>
     
     <item>
@@ -28,10 +37,8 @@
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication/quartz-apri-ieee-latin/</guid>
-      <description>&lt;p&gt;Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP).
+A Dissertação está disponível no Portal de Teses e Dissertações da USP.</description>
     </item>
     
     <item>
@@ -40,10 +47,8 @@
       <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication/quartz-apri-enigma/</guid>
-      <description>&lt;p&gt;Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no &lt;a href=&#34;https://www.ime.usp.br/&#34; target=&#34;_blank&#34;&gt;Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/45/45134/tde-23102013-163524/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Este trabalho é um substrato da Dissertação de Mestrado desenvolvida no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP).
+A Dissertação está disponível no Portal de Teses e Dissertações da USP.</description>
     </item>
     
     <item>
@@ -52,14 +57,10 @@
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication/lyra2/</guid>
-      <description>&lt;p&gt;A Password Hashing Scheme (PHS) based on cryptographic sponges.&lt;/p&gt;
-
-&lt;p&gt;Também disponível em: &lt;a href=&#34;https://eprint.iacr.org/2015/136&#34; target=&#34;_blank&#34;&gt;ia.cr/2015/136&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este trabalho é um substrato da Tese de Doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Tese está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-26082016-150620/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>A Password Hashing Scheme (PHS) based on cryptographic sponges.
+Também disponível em: ia.cr/2015/136.
+Este trabalho é um substrato da Tese de Doutorado desenvolvida na Escola Politécnica da Universidade de São Paulo (Poli-USP).
+A Tese está disponível no Portal de Teses e Dissertações da USP.</description>
     </item>
     
     <item>
@@ -68,14 +69,10 @@
       <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication/lyra/</guid>
-      <description>&lt;p&gt;A Password Hashing Scheme (PHS) based on cryptographic sponges.&lt;/p&gt;
-
-&lt;p&gt;Também disponível em: &lt;a href=&#34;https://eprint.iacr.org/2014/030&#34; target=&#34;_blank&#34;&gt;ia.cr/2014/030&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da Dissertação de Mestrado Leonardo de Campos Almeida, desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A Dissertação está disponível no &lt;a href=&#34;http://www.teses.usp.br/teses/disponiveis/3/3141/tde-29062016-085500/&#34; target=&#34;_blank&#34;&gt;Portal de Teses e Dissertações da USP&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>A Password Hashing Scheme (PHS) based on cryptographic sponges.
+Também disponível em: ia.cr/2014/030.
+Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da Dissertação de Mestrado Leonardo de Campos Almeida, desenvolvida na Escola Politécnica da Universidade de São Paulo (Poli-USP).
+A Dissertação está disponível no Portal de Teses e Dissertações da USP.</description>
     </item>
     
     <item>

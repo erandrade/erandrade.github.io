@@ -6,9 +6,11 @@
     <description>Recent content in Tags on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2017 Ewerton R. Andrade</copyright>
+    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
     <lastBuildDate>Thu, 04 Aug 2011 12:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://erandrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Aprovação</title>
