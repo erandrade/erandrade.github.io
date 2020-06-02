@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inovacao on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/inovacao/</link>
+    <description>Recent content in Inovacao on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/inovacao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tecnologia e novos negócios: UNIR e Rádio CBN</title>
+      <link>https://erandrade.github.io/project/radio-cbn/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/radio-cbn/</guid>
+      <description>Estes programas são resultado de um projeto de extensão que busca divulgar a Computação como profissão da Área de Ciências Exatas e da Terra essencial para o desenvolvimento da sociedade moderna. Este projeto pretende incentivar o interesse pelas carreiras de Tecnologia da Informação, em especial pelos cursos da Fundação Universidade Federal de Rondônia (UNIR), bem como esclarecer dúvidas relacionadas à Tecnologias e Novos Negócios. Para isso, foi desenvolvido em parceria com a Rádio CBN Amazônia Porto Velho, tendo como público-alvo a comunidade em geral de toda região amazônia.</description>
+    </item>
+    
+    <item>
+      <title>Programa UniHacker.Club</title>
+      <link>https://erandrade.github.io/project/unihacker/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/unihacker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Carteirinha: O documento digital do estudante</title>
+      <link>https://erandrade.github.io/project/e-carteirinha/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/e-carteirinha/</guid>
+      <description>Resumo Seguindo a tendência de disponibilização de documentos digitais de identificação, o presente trabalho visa criar uma versão digital da Carteira de Identificação Estudantil (CIE) para estudantes do Instituto Federal de Rondônia (IFRO). Dentro das instituições de ensino, este documento é popularmente chamado de &amp;lsquo;carteirinha&amp;rsquo;, por este motivo, esta nova versão vem sendo chamada de &amp;lsquo;e-carteirinha&amp;rsquo;. Com a implantação desta solução, espera-se que: (I) seja diminuído o período de espera para a confecção deste documento de identificação, (II) seja necessário menos servidores/colaboradores para sua emissão, (III) haja um acréscimo de segurança em razão dos mecanismos implementados nesta nova versão digital do documento, (IV) se estabeleça uma estrutura que permita extensão e comunicação com novos sistemas.</description>
+    </item>
+    
+  </channel>
+</rss>

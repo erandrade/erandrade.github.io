@@ -48,8 +48,18 @@
   </url>
   
   <url>
+    <loc>https://erandrade.github.io/project/radio-cbn/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erandrade.github.io/publication-conf/multi-tenant-isolation/</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erandrade.github.io/project/unihacker/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,8 +73,18 @@
   </url>
   
   <url>
+    <loc>https://erandrade.github.io/project/e-carteirinha/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erandrade.github.io/publication-conf/ndpc-demonstration/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erandrade.github.io/project/prog-comp/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -256,6 +276,12 @@
   </url>
   
   <url>
+    <loc>https://erandrade.github.io/tags/inovacao/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://erandrade.github.io/tags/lyra2/</loc>
     <lastmod>2017-01-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -274,6 +300,12 @@
   </url>
   
   <url>
+    <loc>https://erandrade.github.io/tags/outros/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://erandrade.github.io/tags/phs/</loc>
     <lastmod>2017-01-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -287,7 +319,7 @@
   
   <url>
     <loc>https://erandrade.github.io/project/</loc>
-    <lastmod>2017-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -335,7 +367,7 @@
   
   <url>
     <loc>https://erandrade.github.io/tags/seguranca/</loc>
-    <lastmod>2017-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
     <lastBuildDate>Thu, 04 Aug 2011 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erandrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>Inovacao</title>
+      <link>https://erandrade.github.io/tags/inovacao/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/inovacao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lyra2</title>
       <link>https://erandrade.github.io/tags/lyra2/</link>
       <pubDate>Sat, 14 Jan 2017 12:00:00 +0000</pubDate>
@@ -90,6 +99,15 @@
       <pubDate>Sat, 14 Jan 2017 12:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/not%C3%ADcias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outros</title>
+      <link>https://erandrade.github.io/tags/outros/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/outros/</guid>
       <description></description>
     </item>
     
@@ -141,7 +159,7 @@
     <item>
       <title>Seguranca</title>
       <link>https://erandrade.github.io/tags/seguranca/</link>
-      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/seguranca/</guid>
       <description></description>

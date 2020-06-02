@@ -6,9 +6,40 @@
     <description>Recent content in Ewerton R. Andrade on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2019 Ewerton R. Andrade</copyright>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
     <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tecnologia e novos negócios: UNIR e Rádio CBN</title>
+      <link>https://erandrade.github.io/project/radio-cbn/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/radio-cbn/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/videoseries?list=PLjl8AYG0inpwdrxUktHj3R3ThgugZWJQG&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Estes programas são resultado de um projeto de extensão que busca divulgar a Computação como profissão da Área de Ciências Exatas e da Terra essencial para o desenvolvimento da sociedade moderna.
+Este projeto pretende incentivar o interesse pelas carreiras de Tecnologia da Informação, em especial pelos cursos da Fundação Universidade Federal de Rondônia (UNIR), bem como esclarecer dúvidas relacionadas à Tecnologias e Novos Negócios.
+Para isso, foi desenvolvido em parceria com a Rádio CBN Amazônia Porto Velho, tendo como público-alvo a comunidade em geral de toda região amazônia.
+São realizados programas semanais, com participação de todos envolvidos no projeto, em horários predeterminados pela direção da rádio; além de eventuais participações em outros programas.&lt;/p&gt;
+
+&lt;p&gt;Ademais, todos os áudios das participações estão sendo disponibilizados em formato digital no canal &lt;a href=&#34;https://www.youtube.com/channel/UCb1lpO0M2rdUj2lsB6iuvCw&#34; target=&#34;_blank&#34;&gt;Tecnologia e Novos Negócios - UNIR e Rádio CBN&lt;/a&gt; do YouTube.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ewerton Andrade - Coordenação geral (04/2019 - presente)&lt;/li&gt;
+&lt;li&gt;Matheus Rodrigues - Apoio (03/2020 - presente)&lt;/li&gt;
+&lt;li&gt;Ludson Carrascos - Apoio (03/2020 - presente)&lt;/li&gt;
+&lt;li&gt;Juan Rodrigues - Jornalismo da Rádio CBN (04/2019 - presente)&lt;/li&gt;
+&lt;li&gt;Natália Ribeiro - Jornalismo da Rádio CBN (04/2019 - presente)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Designing and Assessing Multi-tenant Isolation Strategies for Cloud Networks</title>
@@ -16,6 +47,15 @@
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication-conf/multi-tenant-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programa UniHacker.Club</title>
+      <link>https://erandrade.github.io/project/unihacker/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/unihacker/</guid>
       <description></description>
     </item>
     
@@ -39,12 +79,57 @@
     </item>
     
     <item>
+      <title>e-Carteirinha: O documento digital do estudante</title>
+      <link>https://erandrade.github.io/project/e-carteirinha/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/e-carteirinha/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Seguindo a tendência de disponibilização de documentos digitais de identificação, o presente trabalho visa criar uma versão digital da Carteira de Identificação Estudantil (CIE) para estudantes do Instituto Federal de Rondônia (IFRO). Dentro das instituições de ensino, este documento é popularmente chamado de &amp;lsquo;carteirinha&amp;rsquo;, por este motivo, esta nova versão vem sendo chamada de &amp;lsquo;e-carteirinha&amp;rsquo;. Com a implantação desta solução, espera-se que: (I) seja diminuído o período de espera para a confecção deste documento de identificação, (II) seja necessário menos servidores/colaboradores para sua emissão, (III) haja um acréscimo de segurança em razão dos mecanismos implementados nesta nova versão digital do documento, (IV) se estabeleça uma estrutura que permita extensão e comunicação com novos sistemas. Para isto, a solução foi desenvolvida nativamente para Android utilizando a linguagem Java e a ferramenta Android Studio, juntamente com bibliotecas de persistência, segurança da informação e comunicação e desenvolvimento web.&lt;/p&gt;
+
+&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
+
+&lt;h2 id=&#34;agradecimentos&#34;&gt;&lt;strong&gt;Agradecimentos&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Este trabalho recebeu o auxílio financeiro e bolsas de Iniciação Tecnológica (PIBIT) do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), processo número 23243.008122/2018-24.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Demonstration of a framework for enabling security services collaboration across multiple domains</title>
       <link>https://erandrade.github.io/publication-conf/ndpc-demonstration/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/publication-conf/ndpc-demonstration/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Treinamentos para competições</title>
+      <link>https://erandrade.github.io/project/prog-comp/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/prog-comp/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Como competições de programação promovem a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão, tem-se que participar deste evento exige aprofundamento e dedicação dos participantes, ao buscar soluções para os problemas computacionais propostos.&lt;/p&gt;
+
+&lt;p&gt;Desta forma, é imprescindível a criação de um espaço dedicado a preparação das alunas e alunos de graduação e pós-graduação, dos diversos cursos de ciências exatas e suas tecnologias, seja da UNIR ou de outras Instituições de Ensino (e.g., IFRO, UNIRON, UNINTER, etc.), para desperta a curiosidade, a criatividade, e promover a integração e a troca de experiências entre os interessados e entusiastas deste assunto.&lt;/p&gt;
+
+&lt;h2 id=&#34;resultados&#34;&gt;&lt;strong&gt;Resultados&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../resources/certificado-obi.pdf&#34;&gt;Aluno entre os 150 melhores do país&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../resources/apresentacao-resumo-obi.pdf&#34;&gt;Apresentação de resumo/comunicação oral em evento científico&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -185,98 +270,6 @@
 &lt;li&gt;&lt;a href=&#34;http://calvinayre.com/2016/09/22/business/banks-punt-on-blockchain-for-trade-data-sharing/&#34; target=&#34;_blank&#34;&gt;Calvin Ayre&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.information-management.com/news/data-management/please-dont-call-it-a-blockchain-if-it-isnt-one-10029840-1.html&#34; target=&#34;_blank&#34;&gt;Information Management&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Soluções criptográficas pós-quânticas eficientes para construção de serviços avançados de segurança</title>
-      <link>https://erandrade.github.io/project/ef-pos-quantum/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/project/ef-pos-quantum/</guid>
-      <description>
-
-&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Desde 1997, quando &lt;a href=&#34;http://dx.doi.org/10.1137/S0097539795293172&#34; target=&#34;_blank&#34;&gt;Shor desenvolveu um algoritmo de tempo polinomial para fatorar inteiros e para calcular o logaritmo discreto em um computador quântico&lt;/a&gt;, a criptografia de chave pública se viu ameaçada e começou a investigar novas fontes de problemas para seus sistemas. Este alarde ocorrera porque, basicamente, os criptossistemas de chave pública usados na atualidade têm sua segurança baseada na intratabilidade dos problemas da fatoração de inteiros, no caso de sistemas RSA, e do logaritmo discreto, em sistemas ElGamal ou de Curvas Elípticas; e tal descoberta tornaria estes sistemas inseguros quando possuíssemos computadores quânticos com a capacidade adequada para implementarmos o algoritmo de Shor.&lt;/p&gt;
-
-&lt;p&gt;Convencionou-se chamar, então, de Criptografia Pós-Quântica a área de pesquisa onde são desenvolvidos sistemas criptográficos baseados em problemas intratáveis em computadores quânticos e onde, também, determina-se a complexidade quântica destas hipóteses de intratabilidade.&lt;/p&gt;
-
-&lt;p&gt;Acredita-se que a possibilidade de evolução dos computadores quânticos não deva ser encarada como único fator para investigação de alternativas para os criptossistemas de chave pública atuais. Isto porque, além de existir diversos estudos acerca da (in)segurança destes problemas ditos clássicos, ainda existe o fato de que os algumas famílias de criptossistemas pós-quânticos serem mais eficientes que as soluções clássicas (e.g. Curvas elípticas, ElGamal, RSA), principalmente em arquiteturas com um clock baixo.&lt;/p&gt;
-
-&lt;p&gt;Dentro deste universo, destacam-se como principais famílias de criptossistemas pós-quânticos os: Reticulados, Códigos Corretores de Erros, Chave Pública Multivariável ($MQ$), esquemas simétricos em geral e funções de Hash.&lt;/p&gt;
-
-&lt;p&gt;É nesse contexto que se encaixa o projeto &lt;em&gt;Efficient Post-Quantum Cryptography for Building Security Applications&lt;/em&gt; (Soluções criptográficas pós-quânticas eficientes para construção de aplicações), que visa desenvolver e analisar a segurança de esquemas criptográficos pós-quânticos que sejam amigáveis a hardware. Mais especificamente, espera-se que alguns serviços básicos de segurança como cifração, autenticação e assinatura digital sejam aprimorados no decorrer deste projeto.&lt;/p&gt;
-
-&lt;p&gt;Cabe ressaltar que o foco deste projeto será a busca pela melhoria de desempenho (i.e., eficiência), possivelmente em termos de tempo de processamento ou requisitos de energia, mas também, dependendo do cenário, se buscará reduzir o tamanho das chaves, assinaturas e textos cifrados.&lt;/p&gt;
-
-&lt;p&gt;Para avaliar as soluções, serão realizadas análises teóricas (considerando a complexidade computacional, oportunidades de paralelismo subjacente, etc.; tanto em cenários de ataques quanto em cenários legítimos) e experimentais (utilizando protótipos de software e implementações em hardware).&lt;/p&gt;
-
-&lt;p&gt;Este projeto é fruto da parceria entre a &lt;a href=&#34;http://www.intel.com.br/content/www/br/pt/research/intel-research.html&#34; target=&#34;_blank&#34;&gt;Intel Labs&lt;/a&gt; e o &lt;a href=&#34;http://www.larc.usp.br/&#34; target=&#34;_blank&#34;&gt;Laboratório de Arquitetura e Segurança de Computadores da USP (LARC-USP)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Padrão de Defesa de Rede em Sistemas de Computação em Nuvem</title>
-      <link>https://erandrade.github.io/project/pat-cloud/</link>
-      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/project/pat-cloud/</guid>
-      <description>
-
-&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;A abordagem comumente adotada para implantação de defesa de redes, fortemente centralizada, não provê eficazmente a elasticidade e flexibilidade necessárias para a segurança de aplicações e serviços que executam em ambientes fortemente virtualizados, como nuvens computacionais.&lt;/p&gt;
-
-&lt;p&gt;Em especial, no contexto de aplicações multimídia tem-se observado que nem todos os operadores implantam suas soluções dentro de uma única nuvem privada, mas consideram em sua arquitetura múltiplos domínios, compostos de uma combinação de nuvens públicas e privadas. Os serviços providos (inclusive de segurança) acabam então sendo executados em um ambiente híbrido, contando com pequenas nuvens (cloudlets) conectadas ao data center principal do provedor de conteúdo.&lt;/p&gt;
-
-&lt;p&gt;Neste contexto, este projeto busca a especificação de uma arquitetura que dê suporte a orquestração da execução dos mecanismos de segurança espalhados pelos diversos domínios que compõem nuvens computacionais como a citada, permitindo a colaboração entre o data centers e cloudlets.&lt;/p&gt;
-
-&lt;p&gt;Essa estrutura deve suportar um sistema centralizado de controle de segurança, que pode controlar as funcionalidades e configurações de segurança de diferentes ferramentas de segurança (firewall, sistemas de deteção de intrusão, etc.) em execução nos cloudlets e data centers.&lt;/p&gt;
-
-&lt;p&gt;Para isso, podem ser usadas tecnologias inovadoras de orquestração de rede, como redes definidas por software (&lt;a href=&#34;https://en.wikipedia.org/wiki/Software-defined_networking&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Software Defined Networks&lt;/em&gt; - SDN&lt;/a&gt;) e encadeamento de serviços (&lt;a href=&#34;https://datatracker.ietf.org/wg/sfc/charter/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Service Function Chaining&lt;/em&gt; - SFC&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Projeto desenvolvido e certificado em parceria internacional com a &lt;a href=&#34;https://www.ericsson.com/about-us/research-areas&#34; target=&#34;_blank&#34;&gt;Ericsson Research&lt;/a&gt; visando o desenvolvimento de soluções de segurança para a virtualização de redes em ambientes de computação em nuvem.&lt;/p&gt;
-
-&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Segurança em Redes Virtuais para Computação em Nuvem</title>
-      <link>https://erandrade.github.io/project/sec-cloud-vn/</link>
-      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/project/sec-cloud-vn/</guid>
-      <description>
-
-&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Projeto desenvolvido e certificado em parceria internacional com a &lt;a href=&#34;https://www.ericsson.com/about-us/research-areas&#34; target=&#34;_blank&#34;&gt;Ericsson Research&lt;/a&gt; visando o desenvolvimento de soluções de segurança para a virtualização de redes em ambientes de computação em nuvem.&lt;/p&gt;
-
-&lt;p&gt;São objetivos deste projeto investigar o estado da arte em soluções de segurança de redes para sistemas de computação em nuvem, compreender as principais ameaças de segurança contra redes virtualizadas em ambiente multi-inquilino e propor um arcabouço de software e hardware capaz de incorporar soluções eficientes na prevenção e contenção destas ameaças.&lt;/p&gt;
-
-&lt;p&gt;O arcabouço de segurança proposto incorpora novas tecnologias e paradigmas de virtualização de redes como Software-defined Networks, Network Function Virtualization e Hardware-assisted Virtualization na construção de uma nova arquitetura de virtualização de redes para ambientes de computação em nuvem.&lt;/p&gt;
-
-&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://erandrade.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

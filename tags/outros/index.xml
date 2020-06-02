@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outros on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/outros/</link>
+    <description>Recent content in Outros on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/outros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tecnologia e novos negócios: UNIR e Rádio CBN</title>
+      <link>https://erandrade.github.io/project/radio-cbn/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/radio-cbn/</guid>
+      <description>Estes programas são resultado de um projeto de extensão que busca divulgar a Computação como profissão da Área de Ciências Exatas e da Terra essencial para o desenvolvimento da sociedade moderna. Este projeto pretende incentivar o interesse pelas carreiras de Tecnologia da Informação, em especial pelos cursos da Fundação Universidade Federal de Rondônia (UNIR), bem como esclarecer dúvidas relacionadas à Tecnologias e Novos Negócios. Para isso, foi desenvolvido em parceria com a Rádio CBN Amazônia Porto Velho, tendo como público-alvo a comunidade em geral de toda região amazônia.</description>
+    </item>
+    
+    <item>
+      <title>Treinamentos para competições</title>
+      <link>https://erandrade.github.io/project/prog-comp/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/prog-comp/</guid>
+      <description>Resumo Como competições de programação promovem a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão, tem-se que participar deste evento exige aprofundamento e dedicação dos participantes, ao buscar soluções para os problemas computacionais propostos.
+Desta forma, é imprescindível a criação de um espaço dedicado a preparação das alunas e alunos de graduação e pós-graduação, dos diversos cursos de ciências exatas e suas tecnologias, seja da UNIR ou de outras Instituições de Ensino (e.</description>
+    </item>
+    
+  </channel>
+</rss>
