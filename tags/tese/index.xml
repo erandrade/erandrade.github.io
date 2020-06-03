@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tese on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/tese/</link>
+    <description>Recent content in Tese on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Fri, 26 May 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/tese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trabalho da USP é premiado em evento sobre segurança da informação</title>
+      <link>https://erandrade.github.io/post/premio-lyra2-ctdseg/</link>
+      <pubDate>Fri, 26 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/premio-lyra2-ctdseg/</guid>
+      <description>&amp;ldquo;Todos os anos, organizado pela Sociedade Brasileira de Computação (SBC), acontece o SBSeg (Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais), que consiste no principal evento para exposição de pesquisas, debates e atividades relacionadas à segurança da informação e de sistemas computacionais.
+[&amp;hellip;]
+Com o projeto Lyra2 − que, resumidamente, é um programa de proteção de senhas −, Ewerton Rodrigues Andrade ganhou o concurso com a melhor tese de doutorado.</description>
+    </item>
+    
+  </channel>
+</rss>

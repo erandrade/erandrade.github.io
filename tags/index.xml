@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Thu, 04 Aug 2011 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erandrade.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acolhimento</title>
+      <link>https://erandrade.github.io/tags/acolhimento/</link>
+      <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/acolhimento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ads</title>
+      <link>https://erandrade.github.io/tags/ads/</link>
+      <pubDate>Tue, 09 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/ads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprendizagem</title>
+      <link>https://erandrade.github.io/tags/aprendizagem/</link>
+      <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/aprendizagem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aprovação</title>
@@ -22,11 +49,74 @@
     </item>
     
     <item>
+      <title>Avaliação</title>
+      <link>https://erandrade.github.io/tags/avalia%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 09 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/avalia%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://erandrade.github.io/tags/blockchain/</link>
+      <pubDate>Fri, 30 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blockchain Editável</title>
       <link>https://erandrade.github.io/tags/blockchain-edit%C3%A1vel/</link>
       <pubDate>Sat, 14 Jan 2017 11:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/blockchain-edit%C3%A1vel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brics</title>
+      <link>https://erandrade.github.io/tags/brics/</link>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/brics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calouros</title>
+      <link>https://erandrade.github.io/tags/calouros/</link>
+      <pubDate>Wed, 27 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/calouros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cbn</title>
+      <link>https://erandrade.github.io/tags/cbn/</link>
+      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/cbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criptografia</title>
+      <link>https://erandrade.github.io/tags/criptografia/</link>
+      <pubDate>Fri, 30 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/criptografia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direito</title>
+      <link>https://erandrade.github.io/tags/direito/</link>
+      <pubDate>Fri, 21 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/direito/</guid>
       <description></description>
     </item>
     
@@ -49,11 +139,29 @@
     </item>
     
     <item>
+      <title>Especialistas</title>
+      <link>https://erandrade.github.io/tags/especialistas/</link>
+      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/especialistas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Esquema De Hash De Senhas</title>
       <link>https://erandrade.github.io/tags/esquema-de-hash-de-senhas/</link>
       <pubDate>Sat, 14 Jan 2017 12:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/esquema-de-hash-de-senhas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fakenews</title>
+      <link>https://erandrade.github.io/tags/fakenews/</link>
+      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/fakenews/</guid>
       <description></description>
     </item>
     
@@ -67,6 +175,15 @@
     </item>
     
     <item>
+      <title>Ifro</title>
+      <link>https://erandrade.github.io/tags/ifro/</link>
+      <pubDate>Tue, 09 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/ifro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inovacao</title>
       <link>https://erandrade.github.io/tags/inovacao/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
@@ -76,11 +193,38 @@
     </item>
     
     <item>
+      <title>Integradora</title>
+      <link>https://erandrade.github.io/tags/integradora/</link>
+      <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/integradora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasão</title>
+      <link>https://erandrade.github.io/tags/invas%C3%A3o/</link>
+      <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/invas%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lyra2</title>
       <link>https://erandrade.github.io/tags/lyra2/</link>
-      <pubDate>Sat, 14 Jan 2017 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 May 2017 12:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/lyra2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mec</title>
+      <link>https://erandrade.github.io/tags/mec/</link>
+      <pubDate>Tue, 09 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/mec/</guid>
       <description></description>
     </item>
     
@@ -121,6 +265,24 @@
     </item>
     
     <item>
+      <title>Podcast</title>
+      <link>https://erandrade.github.io/tags/podcast/</link>
+      <pubDate>Fri, 30 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posse</title>
+      <link>https://erandrade.github.io/tags/posse/</link>
+      <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/posse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projeto</title>
       <link>https://erandrade.github.io/tags/projeto/</link>
       <pubDate>Tue, 24 May 2016 12:00:00 +0000</pubDate>
@@ -130,9 +292,18 @@
     </item>
     
     <item>
+      <title>Projetos</title>
+      <link>https://erandrade.github.io/tags/projetos/</link>
+      <pubDate>Thu, 21 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/projetos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prêmio</title>
       <link>https://erandrade.github.io/tags/pr%C3%AAmio/</link>
-      <pubDate>Tue, 24 May 2016 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 May 2017 12:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/pr%C3%AAmio/</guid>
       <description></description>
@@ -150,7 +321,7 @@
     <item>
       <title>Sbseg</title>
       <link>https://erandrade.github.io/tags/sbseg/</link>
-      <pubDate>Wed, 04 Feb 2015 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 May 2017 12:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/sbseg/</guid>
       <description></description>
@@ -162,6 +333,51 @@
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://erandrade.github.io/tags/seguranca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segurança Cibernética</title>
+      <link>https://erandrade.github.io/tags/seguran%C3%A7a-cibern%C3%A9tica/</link>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/seguran%C3%A7a-cibern%C3%A9tica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sites</title>
+      <link>https://erandrade.github.io/tags/sites/</link>
+      <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tese</title>
+      <link>https://erandrade.github.io/tags/tese/</link>
+      <pubDate>Fri, 26 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/tese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unir</title>
+      <link>https://erandrade.github.io/tags/unir/</link>
+      <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/unir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ysf</title>
+      <link>https://erandrade.github.io/tags/ysf/</link>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/tags/ysf/</guid>
       <description></description>
     </item>
     

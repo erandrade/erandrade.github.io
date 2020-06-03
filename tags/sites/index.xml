@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sites on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/sites/</link>
+    <description>Recent content in Sites on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Wed, 17 Jul 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/sites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invasão de sites: como obter segurança na web?</title>
+      <link>https://erandrade.github.io/post/cbn-audiencia-invasao-sites/</link>
+      <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/cbn-audiencia-invasao-sites/</guid>
+      <description>Leia/Escute na íntegra no site da CBN Amazônia &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

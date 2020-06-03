@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fakenews on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/fakenews/</link>
+    <description>Recent content in Fakenews on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/fakenews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake News: especialistas de Rondônia dão dicas de prevenção às notícias falsas</title>
+      <link>https://erandrade.github.io/post/cbn-fake-news/</link>
+      <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/cbn-fake-news/</guid>
+      <description>Leia/Escute na íntegra no site da CBN Amazônia &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
