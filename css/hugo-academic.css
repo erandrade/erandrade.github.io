@@ -543,6 +543,10 @@ article {
   margin-bottom: 1.5rem;
 }
 
+.article-project {
+  text-align: justify;
+}
+
 .isotope-item {
   z-index: 2;
 }
