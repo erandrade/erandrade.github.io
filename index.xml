@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pesquisador do SACI preside comissão de auditoria em sistema de votação</title>
+      <link>https://erandrade.github.io/post/auditoria-unir/</link>
+      <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/auditoria-unir/</guid>
+      <description>&lt;p&gt;&amp;ldquo;
+[&amp;hellip;]&lt;/p&gt;
+
+&lt;p&gt;A Comissão de Consulta à Comunidade para Escolha de Reitor(a) 2020, nomeou a SUBCOMISSÃO DE AUDITAGEM, sendo formanda pelos: Prof. Ewerton Rodrigues Andrade -  matricula 1377659 (presidente), membros: Prof. Ângelo de Oliveira - matricula 2322969, Prof. Antônio Lemos Regis - matricula 6568599 e Prof. Raimundo Josedi Ramos Veloso - matricula 396788, com o objetivo de verificar os códigos do SiE (Sistema SIGAA de votação).&lt;/p&gt;
+
+&lt;p&gt;[&amp;hellip;]&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.saci.unir.br/noticia/exibir/12160&#34; target=&#34;_blank&#34;&gt;Site do SACI.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.unir.br/index.php?pag=noticias&amp;amp;id=28264&#34; target=&#34;_blank&#34;&gt;Leia na íntegra no site da UNIR &amp;hellip;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fake News: especialistas de Rondônia dão dicas de prevenção às notícias falsas</title>
       <link>https://erandrade.github.io/post/cbn-fake-news/</link>
       <pubDate>Mon, 20 Apr 2020 12:00:00 +0000</pubDate>
@@ -210,28 +229,6 @@ São realizados programas semanais, com participação de todos envolvidos no pr
       
       <guid>https://erandrade.github.io/publication/ndpc-framework/</guid>
       <description>&lt;p&gt;Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da pesquisa de pós-doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>e-Carteirinha: O documento digital do estudante</title>
-      <link>https://erandrade.github.io/project/e-carteirinha/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/project/e-carteirinha/</guid>
-      <description>
-
-&lt;h2 id=&#34;resumo&#34;&gt;&lt;strong&gt;Resumo&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Seguindo a tendência de disponibilização de documentos digitais de identificação, o presente trabalho visa criar uma versão digital da Carteira de Identificação Estudantil (CIE) para estudantes do Instituto Federal de Rondônia (IFRO). Dentro das instituições de ensino, este documento é popularmente chamado de &amp;lsquo;carteirinha&amp;rsquo;, por este motivo, esta nova versão vem sendo chamada de &amp;lsquo;e-carteirinha&amp;rsquo;. Com a implantação desta solução, espera-se que: (I) seja diminuído o período de espera para a confecção deste documento de identificação, (II) seja necessário menos servidores/colaboradores para sua emissão, (III) haja um acréscimo de segurança em razão dos mecanismos implementados nesta nova versão digital do documento, (IV) se estabeleça uma estrutura que permita extensão e comunicação com novos sistemas. Para isto, a solução foi desenvolvida nativamente para Android utilizando a linguagem Java e a ferramenta Android Studio, juntamente com bibliotecas de persistência, segurança da informação e comunicação e desenvolvimento web.&lt;/p&gt;
-
-&lt;h2 id=&#34;maiores-informações&#34;&gt;&lt;strong&gt;Maiores informações&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;É possível encontrar maiores informações sobre o projeto nas &lt;a href=&#34;https://erandrade.github.io/#publications_selected&#34;&gt;publicações acadêmicas&lt;/a&gt; realizadas ao longo de sua execução.&lt;/p&gt;
-
-&lt;h2 id=&#34;agradecimentos&#34;&gt;&lt;strong&gt;Agradecimentos&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Este trabalho recebeu o auxílio financeiro e bolsas de Iniciação Tecnológica (PIBIT) do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), processo número 23243.008122/2018-24.&lt;/p&gt;
 </description>
     </item>
     

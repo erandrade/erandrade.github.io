@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Análise Segurança on Ewerton R. Andrade</title>
+    <link>https://erandrade.github.io/tags/an%C3%A1lise-seguran%C3%A7a/</link>
+    <description>Recent content in Análise Segurança on Ewerton R. Andrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Wed, 17 Jun 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erandrade.github.io/tags/an%C3%A1lise-seguran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pesquisador do SACI preside comissão de auditoria em sistema de votação</title>
+      <link>https://erandrade.github.io/post/auditoria-unir/</link>
+      <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/post/auditoria-unir/</guid>
+      <description>&amp;ldquo; [&amp;hellip;]
+A Comissão de Consulta à Comunidade para Escolha de Reitor(a) 2020, nomeou a SUBCOMISSÃO DE AUDITAGEM, sendo formanda pelos: Prof. Ewerton Rodrigues Andrade - matricula 1377659 (presidente), membros: Prof. Ângelo de Oliveira - matricula 2322969, Prof. Antônio Lemos Regis - matricula 6568599 e Prof. Raimundo Josedi Ramos Veloso - matricula 396788, com o objetivo de verificar os códigos do SiE (Sistema SIGAA de votação).
+[&amp;hellip;]&amp;rdquo;
+Site do SACI.</description>
+    </item>
+    
+  </channel>
+</rss>
