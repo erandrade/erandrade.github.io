@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>e-Carteirinha: O Documento Digital do Estudante</title>
+      <link>https://erandrade.github.io/publication-conf/e-carteirinha/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/e-carteirinha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pesquisador do SACI preside comissão de auditoria em sistema de votação</title>
       <link>https://erandrade.github.io/post/auditoria-unir/</link>
       <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
@@ -219,16 +228,6 @@ São realizados programas semanais, com participação de todos envolvidos no pr
 &lt;p&gt;&lt;a href=&#34;https://www.criptografiaedireito.org.br&#34; target=&#34;_blank&#34;&gt;Site do Criptografia é Direito.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.segurancalegal.com/2018/09/episodio-171-criptografia-e-direito/&#34; target=&#34;_blank&#34;&gt;Leia/Escute na íntegra no site do Podcast Segurança Legal &amp;hellip;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A framework for enabling security services collaboration across multiple domains</title>
-      <link>https://erandrade.github.io/publication/ndpc-framework/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/publication/ndpc-framework/</guid>
-      <description>&lt;p&gt;Este trabalho foi desenvolvido em parceria com diversos autores, e é um substrato da pesquisa de pós-doutorado desenvolvida na &lt;a href=&#34;http://www.poli.usp.br/&#34; target=&#34;_blank&#34;&gt;Escola Politécnica da Universidade de São Paulo (Poli-USP)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
