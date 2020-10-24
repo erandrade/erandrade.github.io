@@ -69,6 +69,48 @@ O tema do fórum deste ano é “Fomentando a parceria de jovens cientistas e in
     </item>
     
     <item>
+      <title>Keep Distance</title>
+      <link>https://erandrade.github.io/project/keep-distance/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/keep-distance/</guid>
+      <description>&lt;p&gt;Incorporando a realidade imposta pela pandemia da Covid-19 no mundo ao ambiente acadêmico e de inovação tecnológica, pesquisadores do curso de Ciência da Computação da UNIR criaram o projeto &amp;lsquo;Keep Distance&amp;rsquo;, uma solução tecnológica de manutenção do distanciamento social.&lt;/p&gt;
+
+&lt;p&gt;O retorno gradativo de atividades presenciais e a comprovação de que evitar aglomerações é eficaz no combate à disseminação do coronavírus motivaram o tema do projeto de conclusão de curso escolhido por Victor Vieira, que expandiu a proposta aos colegas de curso Jéfferson Costa, Márcus Vinícius, Uthant Vicentin, e Wan Rocha, que  juntos idealizaram o &amp;lsquo;Keep Distance&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;A proposta é que, através de sinais de GPS, wi-fi e Bluetooth, a ferramenta detecte o número de pessoas presentes em cada espaço, a distância entre elas e, quando fora dos padrões permitidos, dispare alertas de aglomeração e/ou falta de distanciamento. Isso dará ao usuário a possibilidade de escolher autra sala, laboratório, auditório, ônibus ou um horário diferente para evitar filas e realizar suas atividades presenciais indispensáveis.&lt;/p&gt;
+
+&lt;p&gt;O projeto conta com a participação do professor do Departamento de Ciência da Computação da UNIR, Ewerton Andrade, e está sendo aprimorada no Ocean Lab #3. &amp;ldquo;É uma solução tecnológica para, pelo menos, avisar as pessoas onde há aglomeração ou desobediência ao distanciamento.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/kd-wifi.png&#34; alt=&#34;Keep Distance - Sinais Wifi&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Victor V. M. O. Vieira (acadêmico de Ciência da Computação)&lt;/li&gt;
+&lt;li&gt;Ewerton R. Andrade (professor do &lt;a href=&#34;http://www.dacc.unir.br&#34; target=&#34;_blank&#34;&gt;DACC/UNIR&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Jéfferson D. S. Costa (acadêmico de Ciência da Computação)&lt;/li&gt;
+&lt;li&gt;Márcus Vinícius (acadêmico de Ciência da Computação)&lt;/li&gt;
+&lt;li&gt;Wan S. Rocha (acadêmico de Ciência da Computação)&lt;/li&gt;
+&lt;li&gt;Uthant Vicentin (acadêmico de Ciência da Computação)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Notícias sobre o projeto&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Este projeto já foi notícia em diversas agências de comunição, entre elas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.samsung.com/br/em-programa-de-inovacao-da-samsung-startup-de-rondonia-desenvolve-aplicativo-que-faz-alerta-para-aglomeracao&#34; target=&#34;_blank&#34;&gt;Samsung Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://d.emtempo.com.br/ciencia-e-tecnologia-inovacao/225374/startup-desenvolve-aplicativo-que-faz-alerta-para-aglomeracao&#34; target=&#34;_blank&#34;&gt;Em tempo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://oceanbrasil.com/noticias/detalhes/?news_id=110&#34; target=&#34;_blank&#34;&gt;Ocean Brasil - Samsung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.unir.br/index.php?pag=noticias&amp;amp;id=28525&#34; target=&#34;_blank&#34;&gt;ASCOM UNIR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/kd-app.png&#34; alt=&#34;Keep Distance - App&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>29 novos servidores, docentes e técnicos, são empossados na UNIR no mês de julho</title>
       <link>https://erandrade.github.io/post/posse-unir/</link>
       <pubDate>Wed, 17 Jul 2019 12:00:00 +0000</pubDate>
@@ -221,25 +263,6 @@ São realizados programas semanais, com participação de todos envolvidos no pr
       
       <guid>https://erandrade.github.io/publication-conf/multi-tenant-isolation-poster/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Episódio #171 – Criptografia é Direito</title>
-      <link>https://erandrade.github.io/post/criptografia-e-direito/</link>
-      <pubDate>Fri, 21 Sep 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://erandrade.github.io/post/criptografia-e-direito/</guid>
-      <description>&lt;p&gt;&amp;ldquo;
-[&amp;hellip;]&lt;/p&gt;
-
-&lt;p&gt;Episódio de podcast que traz as impressões dos participantes do evento sobre criptografia promovido pelo IBIDEM em Brasília.&lt;/p&gt;
-
-&lt;p&gt;[&amp;hellip;]&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.criptografiaedireito.org.br&#34; target=&#34;_blank&#34;&gt;Site do Criptografia é Direito.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.segurancalegal.com/2018/09/episodio-171-criptografia-e-direito/&#34; target=&#34;_blank&#34;&gt;Leia/Escute na íntegra no site do Podcast Segurança Legal &amp;hellip;&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

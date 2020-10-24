@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erandrade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keep Distance</title>
+      <link>https://erandrade.github.io/project/keep-distance/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/project/keep-distance/</guid>
+      <description>Incorporando a realidade imposta pela pandemia da Covid-19 no mundo ao ambiente acadêmico e de inovação tecnológica, pesquisadores do curso de Ciência da Computação da UNIR criaram o projeto &amp;lsquo;Keep Distance&amp;rsquo;, uma solução tecnológica de manutenção do distanciamento social.
+O retorno gradativo de atividades presenciais e a comprovação de que evitar aglomerações é eficaz no combate à disseminação do coronavírus motivaram o tema do projeto de conclusão de curso escolhido por Victor Vieira, que expandiu a proposta aos colegas de curso Jéfferson Costa, Márcus Vinícius, Uthant Vicentin, e Wan Rocha, que juntos idealizaram o &amp;lsquo;Keep Distance&amp;rsquo;.</description>
+    </item>
     
     <item>
       <title>Tecnologia e novos negócios: UNIR e Rádio CBN</title>
