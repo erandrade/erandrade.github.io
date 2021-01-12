@@ -6,11 +6,38 @@
     <description>Recent content in Publication-confs on Ewerton R. Andrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2020 Ewerton R. Andrade</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Ewerton R. Andrade</copyright>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erandrade.github.io/publication-conf/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estudo comparativo do módulo rastreador de scanners de vulnerabilidade web de código aberto</title>
+      <link>https://erandrade.github.io/publication-conf/2020-11-27-analise-scanners/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/2020-11-27-analise-scanners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilização de blockchain para certificação de sistema de gestão de processos e documentos eletrônicos</title>
+      <link>https://erandrade.github.io/publication-conf/2020-11-25-processos-blockchain/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/2020-11-25-processos-blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolução das aprovações em cálculo diferencial e integral: Estudo de caso das licenciaturas e dos bacharelados na UNIR em Ji-paraná (RO)</title>
+      <link>https://erandrade.github.io/publication-conf/2020-calculo-diferencial-edu-mat/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/2020-calculo-diferencial-edu-mat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>e-Carteirinha: O Documento Digital do Estudante</title>
@@ -139,6 +166,16 @@ Veja os demais trabalhos premiados do Ewerton R Andrade.</description>
       
       <guid>https://erandrade.github.io/publication-conf/uso-comp-ens-mat/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erandrade.github.io/publication-conf/index-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erandrade.github.io/publication-conf/index-1/</guid>
+      <description>Unknown  +++ selected = true
+abstract = &#34;Scanners de vulnerabilidades web auxiliam na detecção de vulnerabilidades em sistemas web de forma automatizada. Um scanner de vulnerabilidade web é dividido em três módulos: módulo rastreador, módulo atacante e módulo analisador. O módulo rastreador é um dos principais limitadores da eficácia apresentado pelos scanners, pois, se a ferramenta não é capaz de acessar todas as funcionalidades de um sistema web, muitas páginas vulneráveis não serão testadas.</description>
     </item>
     
   </channel>
